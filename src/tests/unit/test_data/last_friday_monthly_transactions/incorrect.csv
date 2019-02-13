@@ -1,0 +1,7 @@
+date,description,amount,day_number,weekday,days_passed,monthly
+2018-01-26,DATALABS,2822.17,5,Fri,0,null
+2018-02-23,DATALABS,2822.17,5,Fri,28,true
+NaN,DATALABSOO,283232322.17,7,Thursday,100,null
+2018-04-27,DATALABS,2822.17,5,Fri,28,true
+2018-05-25,DATALABS,2822.17,5,Fri,28,true
+2018-06-29,DATALABS,283322.17,5,Fri,35,true
